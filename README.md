@@ -1,7 +1,7 @@
 # Introduction to Text Analysis with NLTK
 Analyzing unstructured data (text) with Python's Natural Language Toolkit, along with a little RegEx, Pandas (for tabular data), and Altair (for bar charts)
 
-Material created by Lucy Havens for the [Centre for Data, Culture, & Society](http://cdcs.ed.ac.uk)
+Material created by Lucy Havens and updated by Xandra Dave Cochran for the [Centre for Data, Culture, & Society](http://cdcs.ed.ac.uk)
 
 Folder contents:
 * Slides: PDF documents, two per week
