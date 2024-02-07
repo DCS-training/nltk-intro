@@ -41,7 +41,7 @@ To clear the results and run the code again you can use the 'Cell' menu on the t
 
 [Python][python] is great for general-purpose programming and is a popular language for scientific computing as well. Installing all of the packages required for this lessons individually can be a bit difficult, however, so we recommend the all-in-one installer [Anaconda][anaconda].
 
-Regardless of how you choose to install it, please make sure you install Python version 3.x (e.g., Python 3.6 version). 
+Regardless of how you choose to install it, please make sure you install Python version 3.x (preferably Python 3.11 or higher). 
 
 #### Windows - [Video tutorial][video-windows]
 
@@ -60,7 +60,9 @@ Regardless of how you choose to install it, please make sure you install Python 
 3. Install Python 3 using all of the defaults for installation.
 
 #### Starting Python
-To start Jupyter Notebook Open the Anaconda Navigator and Launch Jupyter Notebook
+To start Jupyter Notebook Open the Anaconda Navigator and Launch Jupyter Notebook.
+
+If you wish, you can create a Python virtual environment and install all dependencies for the course by navigating to the course folder in the terminal and running `sh setup.sh`.
 
 #### Upload the Notebook
 1. Download the notebook on your machine
