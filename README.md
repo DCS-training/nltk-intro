@@ -1,7 +1,7 @@
 # Introduction to Text Analysis with NLTK
 Analyzing unstructured data (text) with Python's Natural Language Toolkit, along with a little RegEx, Pandas (for tabular data), and Altair (for bar charts)
 
-Material created by Lucy Havens and updated by Xandra Dave Cochran for the [Centre for Data, Culture, & Society](http://cdcs.ed.ac.uk)
+Material created by Lucy Havens for the [Centre for Data, Culture, & Society](http://cdcs.ed.ac.uk)
 
 Folder contents:
 * Slides: PDF documents, two per week
@@ -41,7 +41,7 @@ To clear the results and run the code again you can use the 'Cell' menu on the t
 
 [Python][python] is great for general-purpose programming and is a popular language for scientific computing as well. Installing all of the packages required for this lessons individually can be a bit difficult, however, so we recommend the all-in-one installer [Anaconda][anaconda].
 
-Regardless of how you choose to install it, please make sure you install Python version 3.x (preferably Python 3.11 or higher). 
+Regardless of how you choose to install it, please make sure you install Python version 3.x (e.g., Python 3.6 version). 
 
 #### Windows - [Video tutorial][video-windows]
 
@@ -60,9 +60,7 @@ Regardless of how you choose to install it, please make sure you install Python 
 3. Install Python 3 using all of the defaults for installation.
 
 #### Starting Python
-To start Jupyter Notebook Open the Anaconda Navigator and Launch Jupyter Notebook.
-
-If you wish, you can create a Python virtual environment and install all dependencies for the course by navigating to the course folder in the terminal and running `sh setup.sh`.
+To start Jupyter Notebook Open the Anaconda Navigator and Launch Jupyter Notebook
 
 #### Upload the Notebook
 1. Download the notebook on your machine
